@@ -1,8 +1,8 @@
 # best-stealth-game-20261121-1759
 
-![Competition](https://make.fun/badge/best-stealth-game-20261121-1759.svg)
-![Rank](https://make.fun/badge/best-stealth-game-20261121-1759/Farellcv90/best-stealth-game-20261121-1759/rank.svg)
-![Reward](https://make.fun/badge/best-stealth-game-20261121-1759/Farellcv90/best-stealth-game-20261121-1759/reward.svg)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Farellcv90/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Farellcv90/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 Entry for the make.fun bounty: https://make.fun/bounty/best-stealth-game-20261121-1759
 
@@ -40,4 +40,5 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 ---
-Built for make.fun — ref=bbbzard3
+
+<sub>Entered on [make.fun](https://make.fun/?ref=bbbzard3&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
